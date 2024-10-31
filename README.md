@@ -13,18 +13,7 @@ This is a simple calculator web application built using JavaScript, HTML, and CS
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/master/index.html
 
-<br>
 
-## Features
-
-- Clear and intuitive interface: Easy-to-use design for a seamless user experience.
-- arithmetic operations: Perform addition, subtraction, multiplication, division, and ... .
-- Decimal point support: Handle calculations with decimal numbers.
-- Clear button: Quickly reset the calculator.
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Clone the Repository:
@@ -33,9 +22,13 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/mast
   git clone https://github.com/AliDeli80/Calculator.git
   ```
 
+## Features
 
+- Clear and intuitive interface: Easy-to-use design for a seamless user experience.
+- arithmetic operations: Perform addition, subtraction, multiplication, division, and ... .
+- Decimal point support: Handle calculations with decimal numbers.
+- Clear button: Quickly reset the calculator.
 
-<!-- USAGE EXAMPLES -->
 ## Technology Stack
 
 1. HTML: Structure of the web page.
