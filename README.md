@@ -7,12 +7,10 @@ JavaScript Calculator
 ## Description
 
 This is a simple calculator web application built using JavaScript, HTML, and CSS. It allows users to perform arithmetic operations.
-<br>
 
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/master/index.html
-
 
 ## Getting Started
 
@@ -34,8 +32,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/mast
 1. HTML: Structure of the web page.
 2. CSS: Styling and layout of the calculator.
 3. JavaScript: Logic for handling user input, performing calculations, using some functions like Math.pow(), and updating the display.
-
-
 
 ## Contributing
 1.  Fork the repository.
