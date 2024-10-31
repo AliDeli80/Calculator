@@ -1,10 +1,10 @@
-## Project Title: 
+## Project Title
 
 JavaScript Calculator
 
 <br>
 
-## Description:
+## Description
 
 This is a simple calculator web application built using JavaScript, HTML, and CSS. It allows users to perform arithmetic operations.
 <br>
@@ -15,7 +15,7 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/mast
 
 <br>
 
-## Features:
+## Features
 
 - Clear and intuitive interface: Easy-to-use design for a seamless user experience.
 - arithmetic operations: Perform addition, subtraction, multiplication, division, and ... .
@@ -36,7 +36,7 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/mast
 
 
 <!-- USAGE EXAMPLES -->
-## Technology Stack:
+## Technology Stack
 
 1. HTML: Structure of the web page.
 2. CSS: Styling and layout of the calculator.
