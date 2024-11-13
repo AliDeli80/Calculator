@@ -1,30 +1,17 @@
-## Project Title: 
+## Project Title
 
 JavaScript Calculator
 
 <br>
 
-## Description:
+## Description
 
 This is a simple calculator web application built using JavaScript, HTML, and CSS. It allows users to perform arithmetic operations.
-<br>
 
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/master/index.html
 
-<br>
-
-## Features:
-
-- Clear and intuitive interface: Easy-to-use design for a seamless user experience.
-- arithmetic operations: Perform addition, subtraction, multiplication, division, and ... .
-- Decimal point support: Handle calculations with decimal numbers.
-- Clear button: Quickly reset the calculator.
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Clone the Repository:
@@ -33,16 +20,18 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Calculator/blob/mast
   git clone https://github.com/AliDeli80/Calculator.git
   ```
 
+## Features
 
+- Clear and intuitive interface: Easy-to-use design for a seamless user experience.
+- arithmetic operations: Perform addition, subtraction, multiplication, division, and ... .
+- Decimal point support: Handle calculations with decimal numbers.
+- Clear button: Quickly reset the calculator.
 
-<!-- USAGE EXAMPLES -->
-## Technology Stack:
+## Technology Stack
 
 1. HTML: Structure of the web page.
 2. CSS: Styling and layout of the calculator.
 3. JavaScript: Logic for handling user input, performing calculations, using some functions like Math.pow(), and updating the display.
-
-
 
 ## Contributing
 1.  Fork the repository.
